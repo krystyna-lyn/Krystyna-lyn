@@ -2,7 +2,7 @@
 </br>
 
 # 👩‍💻 I’m currently learning
-* <img src="https://img.shields.io/badge/-NextJS-000000?style=flat&logo=react&logoColor=FFFFFF">
+* <img src="https://img.shields.io/badge/-NextJS-000000?style=flat&logo=react">
 * <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 * <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
 
