@@ -2,15 +2,13 @@
 </br>
 
 # 👩‍💻 I’m currently learning
-* [![Next][Next.js]][Next-url]
+* <img src="https://img.shields.io/badge/-NextJS-000000?style=flat&logo=react&logoColor=FFFFFF">
+* <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 * [![React][React.js]][React-url]
 * <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
 
 </br>
 
-# 👩‍💻🔆 I want to learn Python
-
-</br>
 
 ### Tech & Tools ☑️
 
@@ -32,10 +30,12 @@
 
 </br>
 
+# 👩‍💻🔆 I want to learn Python
 
 </br></br>
+
 ### Find me in the web 
-[<img align="left" alt="krys.web | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="krys.web | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
 
 
