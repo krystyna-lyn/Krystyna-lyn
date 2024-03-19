@@ -1,13 +1,10 @@
 ### Hi there I'm Krystyna 👋
-</br>
 
 # 👩‍💻 I’m currently learning
 * <img src="https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next&logoColor=FFFFFF">
-* <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-* <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
+* <img src="https://img.shields.io/badge/-React-00c8ff?style=flat&logo=react&logoColor=000000">
 
 </br>
-
 
 ### Tech & Tools ☑️
 
@@ -16,16 +13,11 @@
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-Angular-ff3300?style=flat&logo=angular&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
-
 </br>
 
-# 👩‍💻🔆 I want to learn <img src="https://img.shields.io/badge/-Python-3399ff?style=flat&logo=python&logoColor=ffff66">
+# 👩‍💻🔆 I want to learn 
 
-</br>
-
-### Find me in the web 
-<img align="left" alt="krys.web | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
-
-
-
+* <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
+* <img src="https://img.shields.io/badge/-Typescript-00c8ff?style=flat&logo=graphql&logoColor=FFFFFF">
+* <img src="https://img.shields.io/badge/-Nodejs-2C6C0B?style=flat&logo=graphql&logoColor=FFFFFF">
+* <img src="https://img.shields.io/badge/-Python-3399ff?style=flat&logo=python&logoColor=ffff66">
