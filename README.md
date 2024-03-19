@@ -1,7 +1,7 @@
 ### Hi there I'm Krystyna 👋
 
 # 👩‍💻 I’m currently learning
-* <img src="https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next&logoColor=FFFFFF">
+* <img src="https://img.shields.io/badge/-Nextjs-000000?style=flat&logo=next&logoColor=FFFFFF">
 * <img src="https://img.shields.io/badge/-React-00c8ff?style=flat&logo=react&logoColor=000000">
 
 </br>
@@ -18,6 +18,6 @@
 # 👩‍💻🔆 I want to learn 
 
 * <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
-* <img src="https://img.shields.io/badge/-Typescript-00c8ff?style=flat&logo=graphql&logoColor=FFFFFF">
+* <img src="https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=graphql&logoColor=FFFFFF">
 * <img src="https://img.shields.io/badge/-Nodejs-2C6C0B?style=flat&logo=graphql&logoColor=FFFFFF">
 * <img src="https://img.shields.io/badge/-Python-3399ff?style=flat&logo=python&logoColor=ffff66">
