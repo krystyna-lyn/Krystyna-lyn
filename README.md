@@ -4,6 +4,7 @@
 1. <img src="https://img.shields.io/badge/-React-00c8ff?style=flat&logo=react&logoColor=000000">
 2. <img src="https://img.shields.io/badge/-Nextjs-000000?style=flat&logo=nextjs&logoColor=FFFFFF">
 3. <img src="https://img.shields.io/badge/-Nodejs-2C6C0B?style=flat&logo=nodejs&logoColor=FFFFFF">
+4. <img src="https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=FFFFFF">
 
 
 </br>
@@ -17,5 +18,4 @@
 # 👩‍💻🔆 I want to learn 
 
 * <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
-* <img src="https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=FFFFFF">
 * <img src="https://img.shields.io/badge/-Python-3399ff?style=flat&logo=python&logoColor=ffff66">
