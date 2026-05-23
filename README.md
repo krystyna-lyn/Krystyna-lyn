@@ -2,7 +2,6 @@
 
 # 👩‍💻 I’m currently learning
 1. <img src="https://img.shields.io/badge/-React-00c8ff?style=flat&logo=react&logoColor=000000">
-2. <img src="http://img.shields.io/badge/-Angular-ff3300?style=flat&logo=angular&logoColor=FFFFFF">
 3. <img src="https://img.shields.io/badge/-Nextjs-000000?style=flat&logo=nextjs&logoColor=FFFFFF">
 
 </br>
